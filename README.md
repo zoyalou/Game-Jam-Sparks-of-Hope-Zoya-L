@@ -1,49 +1,22 @@
-# Game Jam Starter Code
-This is a place for you to start building your Game Jam Project!
+# GWC Summer Immersion Project Game Jam - Sparks of Hope
 
-### Project Requirements
-Your project should:
-- Include a clear description of the goal and rules. 
-- Provide evidence for how it responds to the game jam prompt.
-- Incorporate one UX design principle.
-- Be an MVP version of the final vision for the game. 
-- Properly cite any assets or a game you modded.
-- Utilize code comments to make your code readable for others who might want to mod it. 
-- Be playtested to gather feedback.
-- Be iterated on based on the feedback you receive.
+## Synopsis
 
+You are stuck in a monochrome building, where all hope of escape appears to be lost. You wander between three rooms: the kitchen, hallway, and bedroom. Bored, you begin to fidget with the items laying around. Suddenly, you find a game to play. It brings you so much joy...so much so that you feel as though if you played enough games, you'd have enough sparks of hope to escape this dreary place...
 
-### Extensions
-You can extend your project further by:
-- Add a new feature
-- Refactor your code
-- Port to Github pages
-
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- Add here if applicable
-
----
-
+This is an escape room game created under the Girls Who Code Summer Immersion Program for a project called Game Jam. Created using javascript and replit, I utilized the built-in physics engine for the minigames and finished within three days.
 ## File Overview
 
 ### ← script.js
 
-This is where we will add the JavaScript code for our game.
+The JavaScript code for this game. Includes updates to run visual aspects of the game.
 
 ### ← assets
 
-Drag in assets, like images, to add them to your project. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg` or `assets/example.png`.
+Backgrounds: AI Generated using ChatGPT
 
 ### ← index.html
 
-The HTML file contains HTML code that sets up a webpage for our game. We also add libraries in this file using HTML tags.
+The HTML file contains HTML code that sets up a webpage for the game. Libraries are also in this file using HTML tags.
 
-### ← README.md
-
-That's this file. This is the place to tell people more about what your game does and how you built it. 
-
-### ← style.css
-
-The CSS file adds styling rules to your content like changing colors and fonts. We will not use this file for our game and instead update the style of our game in the script.js file.  
 
